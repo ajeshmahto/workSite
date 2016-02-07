@@ -1,5 +1,10 @@
 package workForce.com.repositoryImpl;
 
-public class ClientRepositoryImpl {
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+
+@Repository
+public interface ClientRepositoryImpl  extends CrudRepository<String,String> {
 
 }
