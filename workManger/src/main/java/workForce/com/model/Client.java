@@ -1,6 +1,8 @@
 package workForce.com.model;
 
 
+import java.util.ArrayList;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 
@@ -22,7 +24,9 @@ public class Client {
 	private String address;
 	
 	
-	//private ArrayList<Project> projectsList ;
+	
+	// ??? one to many?!
+   private ArrayList<Project> projectsList ;
 	
 	
 	
