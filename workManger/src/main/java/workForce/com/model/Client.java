@@ -9,7 +9,7 @@ import javax.persistence.Entity;
 import org.springframework.data.annotation.Id;
 
 
-@Entity
+//@Entity
 public class Client {
 	
 	

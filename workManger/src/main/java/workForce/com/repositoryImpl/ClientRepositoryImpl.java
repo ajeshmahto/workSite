@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 import workForce.com.model.Client;
 
 
-@Repository
+//@Repository
 public interface ClientRepositoryImpl  extends CrudRepository<Client,Long> {
 
 }

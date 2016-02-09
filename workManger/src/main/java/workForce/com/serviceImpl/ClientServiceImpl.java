@@ -13,8 +13,8 @@ import workForce.com.service.ClientService;
 
 
 
-@Service
-@Transactional
+//@Service
+//@Transactional
 public class ClientServiceImpl  implements ClientService{
 	
 	

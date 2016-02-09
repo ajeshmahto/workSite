@@ -11,7 +11,7 @@ import workForce.com.service.UserService;
 public class UserServiceImpl implements UserService{
 	
 	
-	@Autowired
+	//@Autowired
 	UserRepositoryImpl userRepositoryImpl;
 
 	@Override
