@@ -1,0 +1,45 @@
+
+
+
+
+.submit a{
+    background:url("../images/but_join.png") top repeat-x;
+    text-shadow:0px -1px 0px #0034a4;
+
+}
+
+
+
+
+
+.but-color-medium{
+    background:url("../images/but_color_med_transp.png") top repeat-x;
+    padding:6px 7px 8px 7px;
+    font-weight:bold;
+
+}
+
+
+
+
+.buttons{
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 5px;
+    border-color: whitesmoke;
+    behavior: url(PIE.htc);
+    display:inline-block;
+    vertical-align:top;
+    width: 160px;
+    background:url("../images/but_join.png") top repeat-x;
+}
+
+
+
+
+
+
+
+
+
+
